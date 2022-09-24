@@ -1,3 +1,3 @@
 ## Calculadora
 
-- Uma Simples calculadoras
+- Uma Simples calculadora usando HTML, CSS e Javascript
